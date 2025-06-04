@@ -1,4 +1,5 @@
-import { Guestbook } from "@/app/type/type";
+import { Guestbook } from "../app/type/type";
+
 
 
 

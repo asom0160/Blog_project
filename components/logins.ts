@@ -1,4 +1,5 @@
-import { Login } from "@/app/type/type";
+import { Login } from "../app/type/type";
+
 
 export const logins: Login[] = [
   {
