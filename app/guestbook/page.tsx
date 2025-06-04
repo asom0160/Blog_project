@@ -2,8 +2,8 @@
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import axios from "axios";
-import GuestbookCard from "@/components/GuestbookCard";
 import { Guestbook } from "../type/type";
+import GuestbookCard from "../../components/GuestbookCard";
 
 
 
