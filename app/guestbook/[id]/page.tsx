@@ -2,7 +2,8 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { useParams, useRouter } from "next/navigation";
-import { Guestbook } from "@/app/type/type";
+import { Guestbook } from "../../type/type";
+
 
 
 
